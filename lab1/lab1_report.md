@@ -78,7 +78,7 @@ gcloud storage cp gs://lab1-bucket-itmo/* . --account=epopinova-sa-lab1@cloud-pl
 Результат — ожидаемая ошибка доступа:
 ERROR: (gcloud.storage.cp) ... does not have storage.objects.list access to the Google Cloud Storage bucket.
 
-![Ошибка](acess_denied.png)
+![Ошибка](access_denied.png)
 
 ## Результат
 В ходе лабораторной работы были освоены базовые операции в Google Cloud: создание service account с ролью Storage Admin, создание минимальной spot-VM, копирование файлов из Cloud Storage на VM с помощью gcloud storage cp, проверка влияния смены прав доступа на возможность выполнения операций.
