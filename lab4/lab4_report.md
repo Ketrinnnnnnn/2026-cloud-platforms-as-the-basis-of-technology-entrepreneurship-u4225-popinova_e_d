@@ -244,5 +244,5 @@ Date of finished: DD.MM.YYYY
 
 \- Схемы инфраструктуры (вставлены по ходу отчёта)
 
-\- \[Файл с детальными расчётами (JSON)](calculations.json)
+\- \[Файл с детальными расчётами (JSON)](calculations/calculations.json)
 
