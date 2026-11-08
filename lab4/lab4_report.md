@@ -117,4 +117,4 @@ Date of finished: DD.MM.YYYY
 ## Приложения
 
 - Схемы инфраструктуры (вставлены по ходу отчёта)
-- [Файл с детальными расчётами (JSON)](calculations/calculations.json)
+- [Файл с детальными расчётами (JSON)](calculation/calculations.json)
